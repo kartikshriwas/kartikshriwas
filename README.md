@@ -4,7 +4,7 @@
 ![Astra](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Astra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
   <div align="center">
     <a href="https://discord.com/users/433227453637328897">
-      <img src="https://lanyard.cnrad.dev/api/433227453637328897?bg=0000000" alt="Discord Presence" />
+      <img src="https://lanyard.cnrad.dev/api/433227453637328897?bg=0000000&showDisplayName=true&hideActivity=whenNotUsed" alt="Discord Presence" />
     </a>
   </div>
 
