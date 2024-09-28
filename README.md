@@ -15,6 +15,8 @@
   - 🔭 Enthusiastic about creating meaningful projects and contributing to open-source.
   - 💬 Ask me about web development, software engineering, or programming.
   - 📫 Reach out to me: [Discord - @astraop](https://discord.com/users/433227453637328897)
+  - 
+  Telegram: [@AstraTake](https://t.me/AstraTake)
 </details>
 
 <details>
@@ -44,4 +46,5 @@
   <summary>📫 Get in Touch</summary>
 
   Discord: [@astraop](https://discord.com/users/433227453637328897)
+  Telegram: [@AstraTake](https://t.me/AstraTake)
 </details>
