@@ -40,7 +40,7 @@
   ![Views](https://komarev.com/ghpvc/?username=kartikshriwas&color=blue)
 </details>
 
-<details open>
+<details close>
   <summary>📫 Get in Touch</summary>
 
   Discord: [@astraop](https://discord.com/users/433227453637328897)
