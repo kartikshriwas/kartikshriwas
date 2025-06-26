@@ -18,7 +18,7 @@ I'm Kartik Shriwas, a passionate **Full-Stack Developer** with expertise in a wi
 - 💻 **Tech Stack**: Proficient in **NodeJS**, **Python**, **JavaScript**, and more.
 - 🔭 **What I Do**: Build projects, contribute to open-source, and solve real-world problems through code.
 - 💬 **Ask Me About**: Web development, backend systems, JavaScript/TypeScript, and Python.
-- 📫 **Reach Me On**: [Discord](https://discord.com/users/433227453637328897) | [Telegram](https://t.me/AstraTake)
+- 📫 **Reach Me On**: [Discord](https://discord.com/users/433227453637328897) | [Telegram](https://t.me/KartikShriwas)
 
 ---
 
