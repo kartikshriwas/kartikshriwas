@@ -26,7 +26,7 @@ I'm Kartik Shriwas, a passionate **Full-Stack Developer** with expertise in a wi
 
 <p align="center">
   <a href="https://github.com/kartikshriwas">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,php,py,c,cpp,mongodb,vscode,github,nginx,cloudflare,ps&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,php,py,c,cpp,java,mongodb,vscode,github,nginx,cloudflare,ps&theme=dark" />
   </a>
 </p>
 
